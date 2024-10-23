@@ -1,4 +1,5 @@
 <?php
+
 include("config.php");
 include("firebaseRDB.php");
 
@@ -19,7 +20,7 @@ else{
 
 
     if(!isset($data['email'])){
-        echo "Email not registered";
+        echo "Email is not registered";
     }
     else if($data['password'] != $password)
     {
@@ -30,3 +31,4 @@ else{
     }
 }
 
+?>

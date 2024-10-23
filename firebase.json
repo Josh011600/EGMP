@@ -1,5 +1,5 @@
 {
-  "hosting": {
+  "osting": {
     "public": "public",
     "ignore": [
       "firebase.json",

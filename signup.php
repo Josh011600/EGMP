@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signup page</title>
+    <title>Sign up page</title>
 </head>
 <body>
     <form action="post" action="signup_action.php">
